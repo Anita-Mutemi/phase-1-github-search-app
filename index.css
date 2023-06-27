@@ -11,3 +11,11 @@
 ul {
   list-style: none;
 }
+body {
+  /* filter: brightness(70%); */
+  background-image: url(./rubaitul-azad-HLQDfaJUTVI-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-blend-mode: darken;
+}
